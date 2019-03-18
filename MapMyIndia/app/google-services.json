@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90608996021",
+    "firebase_url": "https://mapmyindia-b4fd2.firebaseio.com",
+    "project_id": "mapmyindia-b4fd2",
+    "storage_bucket": "mapmyindia-b4fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90608996021:android:b669c92dc72e7876",
+        "android_client_info": {
+          "package_name": "com.example.uday_vig.mapmyindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90608996021-qi4kjhm48giejnqi34t1vcoqhhd3vndl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uday_vig.mapmyindia",
+            "certificate_hash": "0785319edc9f6d16ef3de69059f7a30f1ded727b"
+          }
+        },
+        {
+          "client_id": "90608996021-v3pdmff0vah0dg4jimuvpieokc235s62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSwQnu-J5M6UGZkzAJXlO8j4SkTggZbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90608996021-v3pdmff0vah0dg4jimuvpieokc235s62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
