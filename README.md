@@ -17,6 +17,7 @@ R - Corresponding Signal is Red
 \
 G - Corresponding Signal is Green
 \
+\
 ![alt text](https://github.com/codefeeder/Smart-Traffic-Management-System/blob/master/demo/videoplayback.gif)
 ### Mobile App
 ![alt text](https://github.com/codefeeder/Smart-Traffic-Management-System/blob/master/demo/WhatsApp%20Image%202019-03-18%20at%201.25.43%20PM.jpeg)
