@@ -172,7 +172,7 @@ public class GetData extends AsyncTask<String, Void, String> {
                         Log.e("YOLO", "Loop left");
                     }else{
                         Log.e("YOLO", "run: " + count);
-                        new GetData(++count, arr, context).execute("https://apis.mapmyindia.com/advancedmaps/v1/up87un4nhriz1agk873vtsjwppy47hgd/distance?center=" + arr[count - 1].getLatitude() + "," + arr[count - 1].getLongitude() + "%7c&pts=" + arr[count].getLatitude() + "," + arr[count].getLongitude());
+                        new GetData(++count, arr, context).execute("https://apis.mapmyindia.com/advancedmaps/v1/Your MapMyIndia API Key/distance?center=" + arr[count - 1].getLatitude() + "," + arr[count - 1].getLongitude() + "%7c&pts=" + arr[count].getLatitude() + "," + arr[count].getLongitude());
                     }
                 }
             }, delay);
